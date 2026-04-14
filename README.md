@@ -1,28 +1,31 @@
-# Alex — AI Developer & Solutions Architect
+# Alex — AI Developer
 
-Ich baue AI-Systeme die echte Geschäftsprobleme lösen — von Multi-Agent-Pipelines über Natural Language SQL bis hin zu autonomen Intelligence-Agents.
+Ich baue KI-Anwendungen mit Python und LLM-APIs. Mein Fokus: praktische Loesungen die funktionieren, nicht Hype.
 
-## Was ich baue
+## Live-Projekt
 
-**[mastermaind.ai](https://mastermaind.ai)** — Enterprise Analytics Platform mit NL-SQL, RAG, Multi-Agent-Orchestration und KI-First-Level-Support. DSGVO-konform, On-Premises-fähig.
+**[mastermaind.ai](https://mastermaind.ai)** — Analytics-Plattform mit NL-SQL (deutsche Fragen → SQL-Abfragen), RAG-Suche ueber Fachdokumente und KI-gestuetzter Textoptimierung. Gebaut mit FastAPI, PostgreSQL, pgvector, Supabase. DSGVO-konform.
 
-### Projekte
+### Was ich gebaut habe
 
-| Projekt | Was es tut | Status |
-|---------|-----------|--------|
-| **Multi-Agent AI Pipeline** | Autonomes System das täglich News aus 12+ Quellen aggregiert und Intelligence Reports generiert | Produktiv |
-| **Natural Language SQL** | Deutsche Fragen → SQL-Abfragen gegen echte Datenbanken | Funktioniert |
-| **RAG-System** | Firmendokumente intelligent durchsuchen mit Quellenangaben, On-Premises | Funktioniert |
-| **Daily Intelligence Report** | Autonomer Agent für AI-Trends, Geopolitik und Wirtschaftssignale | Produktiv |
-| **Enterprise Analytics Platform** | Alle Module vereint in einer DSGVO-konformen Oberfläche | [Live Demo](https://mastermaind.ai) |
+| Projekt | Was es tut | Stack |
+|---------|-----------|-------|
+| **mastermaind.ai** | Analytics-Plattform mit NL-SQL, RAG und Textoptimierung | Python, FastAPI, PostgreSQL, Claude API |
+| **NL-SQL Modul** | Deutsche Fragen in SQL-Abfragen gegen echte Datenbanken uebersetzen | Python, Claude API, PostgreSQL |
+| **RAG-System** | Fachdokumente durchsuchen mit Quellenangaben | pgvector, Supabase, Claude API |
+| **Daily Report System** | Automatische Markt- und Techanalyse mit mehreren KI-Agents | Python, Claude API, httpx |
 
 ## Tech Stack
 
-`Python` · `Anthropic API (Claude)` · `FastAPI` · `PostgreSQL` · `RAG` · `NL-SQL` · `Multi-Agent Systems` · `Prompt Engineering` · `Cost Optimization` · `On-Premises Deployment`
+`Python` · `FastAPI` · `Claude API (Anthropic)` · `PostgreSQL` · `pgvector` · `Supabase` · `RAG` · `NL-SQL` · `Prompt Engineering` · `Jinja2` · `Tailwind CSS` · `C# (Grundkenntnisse)`
+
+## Hintergrund
+
+13 Jahre Berufserfahrung in der Logistik (DHL Airways), davon 6 Jahre als stellvertretender Supervisor. ILS-Zertifikat Anwendungsentwicklung (C#, SQL, Webentwicklung). Autodidakt im KI-Bereich — lerne durch Bauen, nicht durch Theorie.
 
 ## Sprachen
 
-🇩🇪 Deutsch · 🇬🇧 English · 🇷🇺 Русский
+Deutsch (C1+) · English · Russisch
 
 ## Kontakt
 
