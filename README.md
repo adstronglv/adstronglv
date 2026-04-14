@@ -25,7 +25,7 @@ Ich baue KI-Anwendungen mit Python und LLM-APIs. Mein Fokus: praktische Loesunge
 
 ## Sprachen
 
-Deutsch (C1+) · English · Russisch
+Deutsch (C1) · English · Russisch
 
 ## Kontakt
 
