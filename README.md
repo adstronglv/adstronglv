@@ -4,16 +4,16 @@ Ich baue KI-Anwendungen mit Python und LLM-APIs. Mein Fokus: praktische Loesunge
 
 ## Live-Projekt
 
-**[mastermaind.ai](https://mastermaind.ai)** — Analytics-Plattform mit NL-SQL (deutsche Fragen → SQL-Abfragen), RAG-Suche ueber Fachdokumente und KI-gestuetzter Textoptimierung. Gebaut mit FastAPI, PostgreSQL, pgvector, Supabase. DSGVO-konform.
+**[mastermAInd.ai](https://mastermaind.ai)** — Analytics-Plattform mit NL-SQL (deutsche Fragen → SQL-Abfragen), RAG-Suche ueber Fachdokumente und KI-gestuetzter Textoptimierung. Gebaut mit FastAPI, PostgreSQL, pgvector, Supabase. DSGVO-konform.
 
 ### Was ich gebaut habe
 
 | Projekt | Was es tut | Stack |
 |---------|-----------|-------|
-| **mastermaind.ai** | Analytics-Plattform mit NL-SQL, RAG und Textoptimierung | Python, FastAPI, PostgreSQL, Claude API |
-| **NL-SQL Modul** | Deutsche Fragen in SQL-Abfragen gegen echte Datenbanken uebersetzen | Python, Claude API, PostgreSQL |
-| **RAG-System** | Fachdokumente durchsuchen mit Quellenangaben | pgvector, Supabase, Claude API |
-| **Daily Report System** | Automatische Markt- und Techanalyse mit mehreren KI-Agents | Python, Claude API, httpx |
+| **[mastermAInd.ai](https://mastermaind.ai)** | Live AI-Tools-Platform mit RAG, NL-SQL, Multi-Agent-Orchestrator | FastAPI, Anthropic, Supabase |
+| **[mastermAind-showcase](https://github.com/adstronglv/mastermAind-showcase)** | Architecture & design decisions for mastermAInd.ai | Documentation |
+| **[rag-fastapi-cloud-onprem](https://github.com/adstronglv/rag-fastapi-cloud-onprem)** | RAG-Service mit Cloud↔On-Premise-Switch (Anthropic ↔ Ollama) | Python, FastAPI, Anthropic, Ollama |
+| **Daily Report System** | Multi-Agent-System fuer Markt- und Techanalyse | Python, Claude API, httpx |
 
 ## Tech Stack
 
